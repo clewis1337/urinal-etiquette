@@ -1,3 +1,8 @@
+@viewport {
+    width: device-width ;
+    zoom: 1.0 ;
+  }
+
 .q1, .q2, .q3, .q4, .q5, .q6, .q7, .q8, .q9, .q10, .restart {
     display: none;
     
@@ -21,8 +26,7 @@ form {
 
 body {
     max-width: 800px;
-    margin-right: 50vh;
-    margin-left: 50vh;
+    margin: auto;
     background-color: lightblue;
 }
 
