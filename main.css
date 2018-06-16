@@ -1,0 +1,47 @@
+.q1, .q2, .q3, .q4, .q5, .q6, .q7, .q8, .q9, .q10, .restart {
+    display: none;
+    
+}
+
+.displayScore {
+    display: none;
+}
+
+.timer {
+    display: none;
+    font-size: 60px;
+    color: red;
+    margin-right: 30vh;
+}
+
+form {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+body {
+    max-width: 800px;
+    margin-right: 50vh;
+    margin-left: 50vh;
+    background-color: lightblue;
+}
+
+.title-img{
+    margin: 0px;
+}
+
+
+.front-page{
+    justify-content: center;
+    margin-left: 210px;
+}
+
+.displayScore{
+    font-size: 100px;
+    font-weight: bold;
+    color: red;
+}
+
+button {
+    font-size: 32px;
+}
