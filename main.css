@@ -5,6 +5,8 @@
 
 .q1, .q2, .q3, .q4, .q5, .q6, .q7, .q8, .q9, .q10, .restart {
     display: none;
+    max-height: 400px;
+    max-width: 600px;
     
 }
 

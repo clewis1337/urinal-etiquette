@@ -69,7 +69,8 @@ let intervalId = null;
         $('.timer').hide();
         $('.displayScore').text('YOUR SCORE: ' + playerScore + '/5');
         $('.displayScore').show();
-        $('.restart').show(); 
+        $('.restart').show();
+        currentQuestion = 6; 
     }
 
     function countdownTimer(){
