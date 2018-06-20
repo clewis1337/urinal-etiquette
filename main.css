@@ -5,13 +5,19 @@
 
 .q1, .q2, .q3, .q4, .q5, .q6, .q7, .q8, .q9, .q10, .restart {
     display: none;
-    max-height: 400px;
-    max-width: 600px;
-    
+    max-width: 700px;
 }
 
 .displayScore {
     display: none;
+}
+
+.container {
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background: #ebebeb;
 }
 
 .timer {
@@ -34,6 +40,8 @@ body {
 
 .title-img{
     margin: 0px;
+    max-width:100%;
+    max-height:100%;
 }
 
 
